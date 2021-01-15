@@ -1,0 +1,23 @@
+{
+  "name": "test-for-front-end-engineer-for-k-soft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royu-toan/test-frontend-ksoft.git"
+  },
+  "keywords": [],
+  "author": "Lê Thái Bảo Toàn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/royu-toan/test-frontend-ksoft/issues"
+  },
+  "homepage": "https://github.com/royu-toan/test-frontend-ksoft#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
